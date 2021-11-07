@@ -251,6 +251,7 @@ footer {
   height: 38px;
   left: 576px;
   top: 174px; */
+  font-family: inherit;
   background: var(--portfolio-filter-color);
   color: var(--main-text-color);
   font-weight: 500;
